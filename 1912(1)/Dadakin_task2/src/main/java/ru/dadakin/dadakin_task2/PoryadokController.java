@@ -24,7 +24,7 @@ public class PoryadokController {
             Result.setText("Порядковый номер: 1");
         } else {
             if (B < A)
-            Result.setText("Порядковый номер: 1");
+            Result.setText("Порядковый номер: 2");
         }
     }
 
